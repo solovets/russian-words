@@ -1,0 +1,21 @@
+{
+  "name": "russian-words",
+  "version": "1.0.0",
+  "description": "Returns an array of Russian words (97 035 items)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solovets/russian-words.git"
+  },
+  "keywords": [
+    "russian",
+    "words",
+    "dictionary"
+  ],
+  "author": "Denis Solovets",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/solovets/russian-words/issues"
+  },
+  "homepage": "https://github.com/solovets/russian-words#readme"
+}
